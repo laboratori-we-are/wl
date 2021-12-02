@@ -1,6 +1,7 @@
 #  *We ARE / AIB, Rete delle reti, EBLIDA* 
 
 > note di lavoro condivise sui **Virtual lab** organizzati da [AIB](https://www.aib.it), [Rete delle Reti](https://retedellereti.dgline.it/), [Eblida](http://www.eblida.org/)
+> pagina di prova
 
 
 

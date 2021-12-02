@@ -19,7 +19,7 @@
 
 ---
 ### Lab 1.2 
-> [*Green literacy - Green library*](/we-are-lab-1-2) SDG 12-13-14-15
+> [*Green literacy - Green library*](pippo.md) SDG 12-13-14-15
 > Stefania Puccini [C] Pinuccia Montanari [F] 
 ---
 

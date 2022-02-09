@@ -10,7 +10,7 @@
 * [*le pagine di OBISS (Osservatorio biblioteche e sviluppo sostenibile) dell'AIB*](https://www.aib.it/struttura/osservatori/obiss/)
 
 ---
-<img src="https://www.aib.it/wp-content/uploads/2017/06/LogoAIBaltarisoluzione.jpg" height="150"> <img src="https://i.imgur.com/j4YvyY9.png" height="140"> --- ![logo EBLIDA](https://cdn.freebiesupply.com/logos/large/2x/eblida-logo-png-transparent.png | height=140) [color=green] --- ![sdg](https://i0.wp.com/www.un.org/sustainabledevelopment/wp-content/uploads/2019/08/SDG-Wheel_WEB.png?resize=150%2C150&ssl=1 | height=150)
+<img src="https://www.aib.it/wp-content/uploads/2017/06/LogoAIBaltarisoluzione.jpg" height="150"> <img src="https://i.imgur.com/j4YvyY9.png" height="140"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eblida-logo-png-transparent.png" height="140"> <img src="https://i0.wp.com/www.un.org/sustainabledevelopment/wp-content/uploads/2019/08/SDG-Wheel_WEB.png?resize=150%2C150&ssl=1" height="150">
 
 ---
 
